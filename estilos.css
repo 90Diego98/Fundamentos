@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+}
+
+ol {
+    background: white;
+    padding: 20px 40px;
+    border-radius: 8px;
+}
+
+p {
+    padding: 12px;
+    border-radius: 6px;
+    margin: 12px 0;
+}
+
+.aprovado {
+    background: #d4edda;
+    color: #155724;
+}
+
+.reprovado {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+.presenca {
+    background: #cce5ff;
+    color: #004085;
+}
+
+.idade {
+    background: #fff3cd;
+    color: #856404;
+}
